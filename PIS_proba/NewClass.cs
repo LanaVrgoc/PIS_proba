@@ -8,5 +8,6 @@ namespace PIS_proba
 {
     internal class NewClass
     {
+
     }
 }
